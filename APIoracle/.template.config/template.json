@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Houssem Eddine Mereghni",
+  "classifications": ["Web"],
+  "identity": "dotnet.core.mongoapi",
+  "name": "ApiCoreTemplates",
+  "shortName": "mongoapi",
+  "tags": {
+    "language": "C#",
+    "type": "item"
+  },
+  "sourceName": "ApiProject"
+}
