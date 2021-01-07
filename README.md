@@ -15,7 +15,7 @@ In **_appsettings.json_** connection parameters have to be replaced (exp:Server=
 ### Usage
 Once installed the templates can be called as such(.NET CLI):
 
-`dotnet new oracle`
+`dotnet new oracleapi`
 
 `dotnet new sqlapi`
 
