@@ -10,7 +10,7 @@ Each API template provides connectivity to:
 For each template an example model is created which can be used as a Code first approach model or scafoled as a database first approach
 A controller with the standard methodes(verbs) is created.
 
-In **_appsettings.json_** connection parameters have to be replaced (exp:Server=localhost; user id=xxxx, the values localhost and xxxx are the host input)
+In **_appsettings.json_** connection parameters have to be replaced (exp:```Server=localhost; user id=xxxx```, the values localhost and xxxx are the host input)
 
 ### Usage
 Once installed the templates can be called as such(.NET CLI):
